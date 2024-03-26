@@ -46,7 +46,7 @@ define (['N/search','N/https','N/log'], function(search,https,log){
 
     function exportToHubSpot(data){
         try{
-            var accessToken = "pat-na1-591dd51f-675c-4d65-8fd2-b2ae2f88227f"
+            var accessToken = ""
 
             var header = {
               Accept: "*/*",
