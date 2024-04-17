@@ -1,0 +1,35 @@
+General Technical Skills:
+Explain the architecture of NetSuite and its key components.
+Describe the different types of NetSuite records you've worked with (e.g., customer, sales order, invoice) and their relationships.
+How do you handle record customization and configuration in NetSuite?
+Scripting and Development:
+Have you written SuiteScript code? Can you explain the different types of SuiteScript (e.g., SuiteScript 1.0, SuiteScript 2.0)?
+Give an example of a SuiteScript customization you implemented and explain its purpose.
+What are user event scripts, client scripts, and scheduled scripts in NetSuite? How do they differ?
+Explain how you handle error handling and debugging in SuiteScript.
+NetSuite Functionalities:
+How do you create saved searches in NetSuite? Explain some common criteria and results customization options.
+Describe your experience with SuiteFlow and workflow automation in NetSuite.
+What are SuiteBundles in NetSuite, and have you worked with any?
+Data Management:
+How do you import and export data in NetSuite?
+Describe your experience with SuiteTalk (NetSuite's web services API) for integrating NetSuite with other applications.
+Customization and Configuration:
+How do you create custom fields, forms, and records in NetSuite?
+Explain the use of scripts and workflows in customizing NetSuite to meet specific business requirements.
+Integration and APIs:
+Have you integrated NetSuite with external systems using RESTlets or other APIs? Describe the process.
+How do you handle authentication and data exchange between NetSuite and external systems?
+Best Practices and Troubleshooting:
+What are some best practices you follow when customizing NetSuite?
+How do you approach performance optimization and scalability in NetSuite?
+Describe a challenging issue you encountered while working on NetSuite and how you resolved it.
+Collaboration and Communication:
+How do you document your NetSuite customizations and configurations?
+Explain how you collaborate with team members and stakeholders when implementing NetSuite solutions.
+Future Plans and Learning:
+What areas of NetSuite are you interested in exploring further?
+How do you plan to enhance your skills and knowledge in NetSuite moving forward?
+Scenario-based Questions:
+Describe a project where you implemented a complex customization in NetSuite. What were the challenges, and how did you overcome them?
+How would you approach designing a solution in NetSuite to automate a specific business process?
